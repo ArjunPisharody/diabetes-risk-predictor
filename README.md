@@ -36,12 +36,5 @@ A simple and interactive Streamlit web app that predicts whether a person is at 
 - **Trained using:** `train_model.py`
 - **Saved model:** `model.pkl`
 
----
 
-## 🚀 How to Run Locally
-
-1. **Clone the repo**:
-   ```bash
-   git clone https://github.com/your-username/health_care_prediction.git
-   cd health_care_prediction
 
